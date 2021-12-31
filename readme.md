@@ -4,7 +4,11 @@
 
  * Projeto iniciado para exercitar as principais tecnlogias de front-end.
 
-👩‍💻 Linguagens utilizadas até o momento:
+## 👩‍💻 Linguagens utilizadas até o momento:
 * HTML
 * CSS
 * Javascript
+
+## Link do site hospedado no Github pages
+
+* https://leilaobarros.github.io/project-landingpage-comparative/
